@@ -19,8 +19,8 @@
 
 ### 🧪 Testing
 - **C#:** MSTest · xUnit · Moq · Shouldly  
-- **JavaScript:** Vitest · Jest  
-- **BDD:** Gherkin · SpecFlow · Cucumber
+- **BDD:** Gherkin · SpecFlow · Cucumber 
+- **Frontend:** Playwright (mcp)
 
 ### ☁️ Cloud & DevOps
 - **Azure Services, App Services & Deployments**  
