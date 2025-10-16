@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Gordon – Full Stack Developer
 
 🔹 25+ years of experience in IT  
-🔹 22+ years with **C#** and **JavaScript**  
-🔹 Passionate about clean code, scalable architectures and mentoring developers
+🔹 22+ years with **C#**, **SQLServer** and **JavaScript**  
+🔹 Passionate about AI, clean code, scalable architectures and mentoring developers
 
 ---
 
@@ -10,8 +10,8 @@
 
 ### 💻 Languages & Frameworks
 - **C#, JavaScript/TypeScript, Python**
-- **Frontend:** Angular 
-- **Backend:** ASP.NET · Node.js 
+- **Frontend:** Angular, Razor
+- **Backend:** ASP.NET · Node.js
 
 ### 📐 Architecture & Principles
 - **Architecture:** DDD · BDD · MVC · MVVM · CQRS  
