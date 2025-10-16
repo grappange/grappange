@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m Gordon – Full Stack Developer
 
+🔹 25+ years of experience in IT  
+🔹 22+ years with **C#** and **JavaScript**  
+🔹 Passionate about clean code, scalable architectures and mentoring developers
+
+---
+
+## 🛠️ Tech Toolbox
+
+### 💻 Languages & Frameworks
+- **C#, JavaScript/TypeScript, Python**
+- **Frontend:** Angular 
+- **Backend:** ASP.NET · Node.js 
+
+### 📐 Architecture & Principles
+- **Architecture:** DDD · BDD · MVC · MVVM · CQRS  
+- **Coding Principles:** SOLID · DRY · DAMP · IoC · DI · DSL  
+
+### 🧪 Testing
+- **C#:** MSTest · xUnit · Moq · Shouldly  
+- **JavaScript:** Vitest · Jest  
+- **BDD:** Gherkin · SpecFlow · Cucumber
+
+### ☁️ Cloud & DevOps
+- **Azure Services, App Services & Deployments**  
+- **CI/CD, DTAP Pipelines, DevOps**  
+- **Containers:** Docker · Kubernetes  
+
+### 🔄 Messaging & Data
+- **ORMs:** Entity Framework · NHibernate · LINQ-to-SQL  
+- **Queues:** Azure Service Bus · NATS · NSQ
+- **OpenAPI, oAuth2.0** 
+
+### 🛠️ Tools
+- **Git** 
+
+---
 <!--
-**grappange/grappange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambvdijk&layout=compact&theme=radical)](https://github.com/ambvdijk)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ambvdijk&count_private=true&show_icons=true&theme=radical)](https://github.com/ambvdijk)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+## 🚀 About Me
+- 💬 Ask me about **architecture, design patterns, and test automation**  
+- 🌱 Currently exploring **AI**  Azure foundry, OLLAMA, AI Agents
+- 👯 Open to collaborating on **.NET / TypeScript open-source projects**  
+
+---
+
+⭐️ From [Gordon Rappange](https://github.com/grappange)
